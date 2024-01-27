@@ -1,5 +1,7 @@
 #ifndef SPLIT_H
 #define SPLIT_H
+#include <iostream>
+using namespace std;
 
 
 struct Node 
